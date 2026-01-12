@@ -33,9 +33,6 @@ File I/O: PIL Image processing
 
 ## 📱 **UI/UX Design**
 
-
-
-📱 UI/UX Design
 ┌──────────────────────────────┐
 │  Select QR Type: [Dropdown]  │  ← Dynamic form switching
 │                              │
@@ -53,11 +50,16 @@ File I/O: PIL Image processing
 │  └─────────────────────┘     │
 └──────────────────────────────┘
 
+
+## 📂 Project Structure
+
 Universal-QR-Pro/
 │
 ├── qr_app.py       # Main GUI application
 ├── QR_LOGIC.py     # QR generation logic
 └── README.md       # This file
+
+
 
 ## 🚀 **Quick Setup**
 
@@ -71,7 +73,8 @@ pip install qrcode[pil] pillow
 
 # Run application
 python qr_app.py
-
+---
+```
 
 💯 Production-ready desktop app! No internet required, perfect for offline use in shops, restaurants, and small businesses. 
  Combines power of qrcode library with professional Tkinter UX! 🎉
