@@ -1,7 +1,6 @@
 # ✨ **Universal QR Pro** - Desktop QR Code Generator
 
-A **professional desktop application** built with **Python Tkinter** for generating **custom QR codes** with multi-format support and logo overlay functionality.
-
+A **I developed a desktop application using Python and Tkinter that allows users to generate custom QR codes easily through a graphical user interface. The application supports multiple QR formats and provides additional customization options for better usability.
 ## 🚀 **Features**
 
 | Feature | Description |
